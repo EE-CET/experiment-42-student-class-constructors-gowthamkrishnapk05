@@ -16,7 +16,8 @@ class Student {
 
     void getstudent()
     {
-        System.out.println("Name: "+name+" Roll :"+roll_no);
+        System.out.print("Name: "+name+" Roll :"+roll_no);
+        System.out.println("");
     }
 }
 
